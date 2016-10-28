@@ -8,7 +8,6 @@ import java.util.Scanner;
 class Fibonacci {
 
     Scanner keyboard = new Scanner(System.in);
-    public int i = 3;
 
     public void sequence() {
         long x = 0;
